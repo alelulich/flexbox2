@@ -1,0 +1,22 @@
+body{
+    height: 100vh;   
+}
+.general{
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.header{
+    height: 20%;
+    background-color: pink;
+}
+.main{
+    background-color: bisque;
+    height: 70%;
+}
+.footer{
+    height: 10%;
+    background-color: blueviolet;
+    
+}
